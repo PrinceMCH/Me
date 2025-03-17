@@ -6,3 +6,4 @@ person1 = {
   "age": "26"
 "country": "Nigeria"
 }
+export.mymodule
